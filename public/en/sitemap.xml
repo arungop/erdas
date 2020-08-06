@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/en/basics/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/basics/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/cont/pages/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/pages/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/pages/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/classification/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/cont/</loc>
+    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/cont/archetypes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/archetypes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/archetypes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/basics/processing/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/basics/requirements/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/basics/requirements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/basics/requirements/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/enhancement/</loc>
+    <lastmod>2020-08-05T16:50:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/cont/markdown/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/basics/installation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/basics/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/basics/installation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/cont/syntaxhighlight/</loc>
+    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/basics/configuration/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/basics/configuration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/basics/configuration/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/basics/georeferencing/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/basics/import/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/basics/mosaic/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/enhancement/ndvi/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/basics/subset/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/classification/supervised/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/classification/unsupervised/</loc>
+    <lastmod>2020-08-05T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/cont/menushortcuts/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/menushortcuts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/menushortcuts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/basics/style-customization/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/basics/style-customization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/basics/style-customization/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/cont/icons/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/enhancement/ndbi/</loc>
+    <lastmod>2020-08-05T16:50:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/cont/i18n/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/i18n/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/i18n/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/cont/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/cont/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/cont/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2020-08-05T16:50:18+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/documentation/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/documentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/documentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/tutorial/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/tutorial/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/showcase/</loc>
+  </url>
+  
+</urlset>
